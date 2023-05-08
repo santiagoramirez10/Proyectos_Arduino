@@ -1,0 +1,1 @@
+En este proyecto se realiza la programación en la placa Arduino UNO de un display 7 segmentos y se hace un contador de 0 a 9 para observar todos los números que se pueden realizar en él.

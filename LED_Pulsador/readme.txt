@@ -1,0 +1,1 @@
+En este proyecto se realiza la programación de la placa Arduino para encender un LED mediante un pulsador, mientras el pulsador se encuentra presionado el LED encenderá y en caso contrario el LED permanece apagado.

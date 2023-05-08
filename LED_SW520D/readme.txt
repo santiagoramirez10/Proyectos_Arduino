@@ -1,0 +1,1 @@
+En este proyecto se realiza la programación de la placa Arduino para encender un LED mediante un sensor de inclinación SW520D que al detectar una inclinación enciende el LED y envía una señal de alerta mediante el monitor serie.

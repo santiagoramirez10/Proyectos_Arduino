@@ -1,0 +1,1 @@
+En este proyecto se realiza la programación en la placa Arduino UNO para controlar los colores de 1 LED RGB, pudiendo así realizar millones de combinaciones y obteniendo una gran cantidad de colores que percibe el ojo humano.

@@ -1,0 +1,1 @@
+En este proyecto se realiza la programación de la placa Arduino para encender un LED mediante un receptor infrarrojo y un control remoto genérico. Con el #0 del control se apaga el LED y con el #1 se enciende el LED; además, en el monitor serie se puede observar el código hexadecimal de cada botón para su posterior programación y realizar más funciones con ellos.

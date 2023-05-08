@@ -1,0 +1,1 @@
+En este proyecto se programa la placa Arduino UNO para convertir un pulsador en un interruptor o suiche. Lo que hace la placa es que cambia el estado de un LED para observar cada pulsación.

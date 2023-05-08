@@ -1,0 +1,1 @@
+En este proyecto se programa la placa Arduino UNO para que se muestre el Hola mundo y Hello world en un display de 16 columnas 1 2 filas, al modificar el programa se puede escribir cualquier mensaje que sea de tipo texto, omitiendo la ñ y las tildes.
