@@ -1,1 +1,0 @@
-En este proyecto se programa la placa Arduino UNO para leer la temperatura mediante un sensor LM35.

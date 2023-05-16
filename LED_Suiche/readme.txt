@@ -1,1 +1,0 @@
-En este proyecto se realiza la programación de la placa Arduino para encender un LED mediante un suiche, para encender o apagar el LED solo basta con apretar una vez el suiche y colocar el LED en el estado deseado.

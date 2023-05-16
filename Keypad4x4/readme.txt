@@ -1,1 +1,0 @@
-En este proyecto se realiza la programación en la placa Arduino UNO para ver las pulsaciones de un teclado de membrana de 4x4, esta lectura es mostrada en el monitor serie cada que el usuario presiona una tecla o pin.

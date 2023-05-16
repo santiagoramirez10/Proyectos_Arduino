@@ -1,1 +1,0 @@
-En este proyecto se realiza la programación en la placa Arduino UNO de un sensor de temperatura y humedad DHT11, donde en el monitor serie se imprimen estas variables.
