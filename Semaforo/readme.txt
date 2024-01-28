@@ -1,0 +1,1 @@
+En este proyecto se realiza la programación en la placa Arduino UNO de 3 LED, 1 rojo, 1 amarillo y 1 verde. Estos LED simulan un semáforo tal y como lo conocemos. El semáforo tiene diferentes secuencias; el verde titila antes de pasar a amarillo, de amarillo pasa a rojo inmediatamente y allí espera un momento para volver a verde nuevamente.

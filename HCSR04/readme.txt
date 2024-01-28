@@ -1,0 +1,1 @@
+En este proyecto se programa la placa Arduino UNO para mirar la lectura de un sensor de ultrasonido que nos muestra la distancia a la que se encuentra de objetos cercanos.

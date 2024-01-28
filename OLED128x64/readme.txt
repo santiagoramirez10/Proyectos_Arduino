@@ -1,0 +1,1 @@
+En este proyecto se programa la placa Arduino Nano para que se muestre el Hola mundo en un display OLED de 128X64, al modificar el programa se puede escribir cualquier mensaje que sea de tipo texto, omitiendo la ñ y las tildes.

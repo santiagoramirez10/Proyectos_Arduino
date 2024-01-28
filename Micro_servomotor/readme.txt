@@ -1,0 +1,1 @@
+En este proyecto se realiza la programación en la placa Arduino UNO de un micro servomotor para que realice movimientos de 180°, al llegar a la media vuelta, el servomotor se devulve y así se realiza el ciclo de manera automática.

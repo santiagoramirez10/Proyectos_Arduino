@@ -1,0 +1,1 @@
+En este proyecto se realiza una clave de acceso con un teclado membrana o keypad 4x4, se tiene un display LCD 16x2 que muestra si el usuario digitó la clave correctamente o no. Esto tiene multiples aplicaciones y para el caso solo se decidió dar acceso o no al usuario mediante la pantalla.

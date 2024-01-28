@@ -1,0 +1,1 @@
+En este proyecto se realiza la programación de la placa Arduino para encender un LED mediante una fotocelda cuuanto esta ultima detecta ausencia de luz; el encendido automático del LED puede ser calibrado mediante el potenciómetro. 
