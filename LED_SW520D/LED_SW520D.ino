@@ -11,6 +11,6 @@ digitalWrite(LED,LOW);
 if(digitalRead(SW_520D)==1){
   Serial.println("Alerta por inclinacion");
   digitalWrite(LED,HIGH);
-  delay(2000);
+  delay(1000);
   }
 }

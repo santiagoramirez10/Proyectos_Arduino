@@ -31,7 +31,7 @@ void setup(){
    matrix.setRotation(8, 1);    
 }
 void loop(){
-   String cadena = "Feliz navidad para todos";
+   String cadena = "QUE EL 2026 LLEGUE CON PAZ PARA EL CORAZON, ALEGRIA PARA EL ALMA Y EXITOS PARA LA VIDA";
    long int time = millis();
    while(Serial.available()){
       cadena += char(Serial.read());

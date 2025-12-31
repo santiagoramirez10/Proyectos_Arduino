@@ -18,6 +18,7 @@ int l8[7]={a,b,c,d,e,f,g};
 int l9[5]={a,b,c,f,g};
 int i;
 int t[8]={a,b,c,d,e,f,g,h};
+int tiempo=750;
 void setup(){ 
   pinMode(a, OUTPUT);
   pinMode(b, OUTPUT);
@@ -40,6 +41,15 @@ void loop() {
   siete();
   ocho();
   nueve();
+  ocho();
+  siete();
+  seis();
+  cinco();
+  cuatro();
+  tres();
+  dos();
+  uno();
+  cero();
 }
 void apagar(){
   for (i=0;i<sizeof(t)/2;i++){
@@ -51,69 +61,69 @@ void cero(){
   for (i=0;i<sizeof(l0)/2;i=i+1){
     digitalWrite(l0[i],LOW);
   }
-  delay(1000);
+  delay(tiempo);
   apagar();
 }
 void uno(){
   for (i=0;i<sizeof(l1)/2;i=i+1){
     digitalWrite(l1[i],LOW);
   }
-    delay(1000);
+    delay(tiempo);
     apagar();
 }
 void dos(){
   for (i=0;i<sizeof(l2)/2;i=i+1){
     digitalWrite(l2[i],LOW);
   }
-  delay(1000);
+  delay(tiempo);
   apagar();
 }
 void tres(){
   for (i=0;i<sizeof(l3)/2;i=i+1){
     digitalWrite(l3[i],LOW);
   }
-  delay(1000);
+  delay(tiempo);
   apagar();
 }
 void cuatro(){
   for (i=0;i<sizeof(l4)/2;i=i+1){
     digitalWrite(l4[i],LOW);
   }
-  delay(1000);
+  delay(tiempo);
   apagar();
 }
 void cinco(){
   for (i=0;i<sizeof(l5)/2;i=i+1){
     digitalWrite(l5[i],LOW);
   }
-  delay(1000);
+  delay(tiempo);
   apagar();
 }
 void seis(){
   for (i=0;i<sizeof(l6)/2;i=i+1){
     digitalWrite(l6[i],LOW);
   }
-  delay(1000);
+  delay(tiempo);
   apagar();
 }
 void siete(){
   for (i=0;i<sizeof(l7)/2;i=i+1){
     digitalWrite(l7[i],LOW);
   }
-  delay(1000);
+  delay(tiempo);
   apagar();
 }
 void ocho(){
   for (i=0;i<sizeof(l8)/2;i=i+1){
     digitalWrite(l8[i],LOW);
   }
-  delay(1000);
+  delay(tiempo);
   apagar();
 }
 void nueve(){
   for (i=0;i<sizeof(l9)/2;i=i+1){
     digitalWrite(l9[i],LOW);
   }
-  delay(1000);
+  delay(tiempo);
   apagar();
 }
