@@ -10,11 +10,11 @@ void setup(){
 }
 void loop(){
   if (irrecv.decode(&codigo)){
-    Serial.println(codigo.value)
-    if (codigo.value==33444015){
+    Serial.println(codigo.value);
+    if (codigo.value==4294967295){
       digitalWrite(LED,HIGH);
     }
-    if (codigo.value==33480735){
+    if (codigo.value==4294967295){
       digitalWrite(LED,LOW);
     }
     delay(500);
