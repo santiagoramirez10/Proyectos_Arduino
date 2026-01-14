@@ -15,7 +15,9 @@ void loop() {
   digitalWrite(Disparo,LOW);
   Duracion=pulseIn(Eco,HIGH);
   Distancia=Duracion/58;
-  Serial.println(Distancia);
+  Serial.print("Distancia: ");
+  Serial.print(Distancia);
+  Serial.println(" cm");
   delay(1000);
 }
 
